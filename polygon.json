@@ -195,7 +195,7 @@
     ],
     "wallets": [
         {
-            "name": "Wallet Suite
+            "name": "Wallet Suite",
             "url": "https://wallet.polygon.technology/"
         },
         {
@@ -256,7 +256,7 @@
             "name": "Provable",
             "url": "https://provable.xyz/"
         },
-        {s
+        {
             "name": "Chronicle",
             "url": "https://chroniclelabs.org/"
         }
