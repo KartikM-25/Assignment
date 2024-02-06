@@ -37,7 +37,7 @@
         "whitepaper": "https://polygon.technology/papers/pol-whitepaper",
         "documentation": "https://docs.polygon.technology/",
         "forum": "https://forum.polygon.technology/",
-        "github": https://github.com/0xPolygon"
+        "github": "https://github.com/0xPolygon"
     },
     "social_platforms": {
         "discord": "https://discord.com/invite/0xPolygon",
@@ -117,7 +117,6 @@
         {
             "name": "3xpl",
             "url": "https://3xpl.com/polygon"
-"
         },
         {
             "name": "BlockSec",
